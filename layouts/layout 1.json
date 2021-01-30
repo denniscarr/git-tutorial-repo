@@ -18,8 +18,37 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 392,
-						"y": 231,
+						"x": 332,
+						"y": 208,
+						"width": 250,
+						"height": 250,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Sprite2",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 3,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 333,
+						"y": 24,
 						"width": 250,
 						"height": 250,
 						"originX": 0.5,
@@ -35,7 +64,7 @@
 					}
 				}
 			],
-			"sid": 176140446032699,
+			"sid": 572844494350755,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"color": [
@@ -60,10 +89,10 @@
 			"global": false
 		}
 	],
-	"sid": 432912325892316,
+	"sid": 299728743455299,
 	"nonworld-instances": [],
 	"effectTypes": [],
-	"width": 1708,
+	"width": 1280,
 	"height": 960,
 	"unboundedScrolling": false,
 	"eventSheet": "Event sheet 1"
